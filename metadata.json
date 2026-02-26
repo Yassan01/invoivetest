@@ -1,0 +1,7 @@
+{
+  "name": "Vellum Invoice UI",
+  "description": "A refined, glass-morphic invoice management interface with AI-powered data extraction and financial insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
